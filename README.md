@@ -49,5 +49,5 @@ Ex: Maybe Committee picks the four - five options and the whole community votes 
 # The Prize
   
 Winners get: $500 Cash + Julia as a Second Language (2023 Book) + 500 Hours of Free Compute on JuliaHub
-
   
+![Uploading Engheim-HI.png…]()
