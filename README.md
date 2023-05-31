@@ -26,7 +26,7 @@ Judging Criteria:
 
 * Interesting problems (show you how a problem was solved rather than a purely instructional notebook)
 
-[Submit Now]: https://juliahub.com/
+[![Submit Now]][https://juliahub.com/] 
 
 ## We want a project that highlights a problem that was solved
 It can have an instructional element, but we care more about the results (geared towards solving problems in a specific domain)
