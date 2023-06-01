@@ -9,7 +9,7 @@ The cutoff submission time is midnight (GST) on August 15, 2023.
 
 Ever wondered what the Julia community is working on? Us to! This is why we'd like to highlight our friends in industry, in academia, and in the open source community as a whole by throwing a friendly competiion to accompony JuliaCon 2023. The goal is for you to upload your best example of using Julia in industry to JuliaHub. 
 
-### How to Upload
+### How to Upload Your Submission
 
 You need to upload it to a JuliaHub.com account and name it **JuliaCon_P2023 - name**
 
