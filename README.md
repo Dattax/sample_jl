@@ -12,6 +12,9 @@ Ever wondered what the Julia community is working on? Us to! This is why we'd li
 ### How to Upload Your Submission
 
 Submit Static URL (setup a Google Form) and name it **JuliaCon_P2023 - name**
+* Name of the Notebook
+* JuliaHub Login Name
+* Link to Notebook
 
 We will include all notebooks marked this way in the competition.
 
