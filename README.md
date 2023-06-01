@@ -11,7 +11,7 @@ Ever wondered what the Julia community is working on? Us to! This is why we'd li
 
 ### How to Upload Your Submission
 
-You need to upload it to a JuliaHub.com account and name it **JuliaCon_P2023 - name**
+Submit Static URL (setup a Google Form) and name it **JuliaCon_P2023 - name**
 
 We will include all notebooks marked this way in the competition.
 
