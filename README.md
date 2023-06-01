@@ -1,7 +1,9 @@
 # Pluto Notebooks Competition
 
-### The best Pluto Notebook projects between June 15 - August 15. 
+### The best Pluto Notebook projects between June 20 - August 15. 
 The cutoff submission time is midnight (GST) on August 15, 2023.
+
+![julia_con_graphic](https://github.com/Dattax/sample_jl/assets/1408846/74483d42-1e56-4436-a413-d1c361cd62bf)
 
 ### How it Works
 
