@@ -1,24 +1,30 @@
 # Pluto Notebooks Competition
 
-### The best Pluto Notebook projects between June 20 - August 15. 
-The cutoff submission time is midnight (GST) on August 15, 2023.
+### The best Pluto Notebook projects between June 10 - August 1st. 
+The cutoff submission time is midnight (GST) on August 1st, 2023.
 
-![julia_con_graphic](https://github.com/Dattax/sample_jl/assets/1408846/74483d42-1e56-4436-a413-d1c361cd62bf)
+![new-image](https://github.com/Dattax/sample_jl/assets/1408846/00826dc9-6512-40e9-92d0-6ead665609bf)
 
 ### How it Works
 
-Ever wondered what the Julia community is working on? Us to! This is why we'd like to highlight our friends in industry, in academia, and in the open source community as a whole by throwing a friendly competiion to accompony JuliaCon 2023. The goal is for you to upload your best example of using Julia in industry to JuliaHub. 
+Ever wondered what the Julia community is working on in industry? Us to! This is why we'd like to highlight our friends in industry, in academia, and in the open source community as a whole by throwing a friendly competiion to accompony JuliaCon 2023. The goal is for you to upload your best example of using Julia's Pluto Notebook in industry to JuliaHub. 
 
-### How to Upload Your Submission
+### How to Submit
 
-Submit Static URL (setup a Google Form) and name it **JuliaCon_P2023 - name**
+We will createa form where you can submit your static URL. The best is if you can name your project with the extension **_JuliaCon2023**
+
+The form will ask you for the following: 
+
 * Name of the Notebook
 * JuliaHub Login Name
 * Link to Notebook
 
-We will include all notebooks marked this way in the competition.
+We will include all notebooks submitted this way in the competition. Please submit only 1 notebook for this competition.
 
-Judging Criteria:
+**Judging Criteria:**
+
+Your notebook will be judged based on the following 3 categories:
+
 1. Subject-matter: solves an interesting problem
 2. Interactivity and includes some kind of output visualization
 3. Best use of a Julia Package(s) / JuliaHub 
@@ -55,7 +61,7 @@ Ex: Maybe Committee picks the four - five options and the whole community votes 
 
 # The Prize
   
-Winners get: $500 Cash + Julia as a Second Language (2023 Book) + 500 Hours of Free Compute on JuliaHub
+Winners get: $300 Cash + Julia as a Second Language (2023 Book) + 300 Hours of Free Compute on JuliaHub
 ![Engheim-HI](https://github.com/Dattax/sample_jl/assets/1408846/78956cd0-2066-4f0f-87aa-5bf103f17559)
   
  ## Want to learn more about Pluto?
