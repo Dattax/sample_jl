@@ -46,7 +46,7 @@ It can have an instructional element, but we care more about the results (geared
 
 Need an image from Pluto itself
 
-## FAQ
+## FAQ (Still to be filled out)
 
 + How do I upload the notebook?
 
