@@ -57,7 +57,7 @@ Need an image from Pluto itself
 Options for voting: 1) JuliaHub committee 2) Open Source Committee 3) Open Voting
 Ex: Maybe Committee picks the four - five options and the whole community votes (top 3)
 
-# The Prizex
+# The Prizes
   
 * 1st Prize winner gets: $500 Cash + 500 Hours of Free Compute on JuliaHub
 * 2nd Prize winner gets: $300 Cash + 300 Hours of Free Compute on JuliaHub
