@@ -59,10 +59,11 @@ Need an image from Pluto itself
 Options for voting: 1) JuliaHub committee 2) Open Source Committee 3) Open Voting
 Ex: Maybe Committee picks the four - five options and the whole community votes (top 3)
 
-# The Prize
+# The Prizex
   
-Winners get: $300 Cash + Julia as a Second Language (2023 Book) + 300 Hours of Free Compute on JuliaHub
-![Engheim-HI](https://github.com/Dattax/sample_jl/assets/1408846/78956cd0-2066-4f0f-87aa-5bf103f17559)
+* 1st Prize winner gets: $500 Cash + 500 Hours of Free Compute on JuliaHub
+* 2nd Prize winner gets: $300 Cash + 300 Hours of Free Compute on JuliaHub
+* 3rd Prize winner gets: $150 Cash + 150 Hours of Free Compute on JuliaHub
   
  ## Want to learn more about Pluto?
   
