@@ -68,7 +68,5 @@ Ex: Maybe Committee picks the four - five options and the whole community votes 
  ## Want to learn more about Pluto?
   
  [Documentation](https://help.juliahub.com/juliahub/stable/tutorials/pluto_notebooks/) | [Tutorials](https://featured.plutojl.org/)
-  
-  ![image_17](https://github.com/Dattax/sample_jl/assets/1408846/3575146a-787f-4645-9ef4-d0aba4e768fc)
 
 
