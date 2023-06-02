@@ -3,7 +3,7 @@
 ### The best Pluto Notebook projects between June 10 - August 1st. 
 The cutoff submission time is midnight (GST) on August 1st, 2023.
 
-![new-image](https://github.com/Dattax/sample_jl/assets/1408846/00826dc9-6512-40e9-92d0-6ead665609bf)
+![new-image]([https://github.com/Dattax/sample_jl/assets/1408846/00826dc9-6512-40e9-92d0-6ead665609bf](https://github.com/Dattax/sample_jl/blob/main/new-image.jpg?raw=true))
 
 ### How it Works
 
