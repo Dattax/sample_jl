@@ -7,7 +7,7 @@ The cutoff submission time is midnight (GST) on August 1st, 2023.
 
 ### How it Works
 
-Ever wondered what the Julia community is working on in industry? Us to! This is why we'd like to highlight our friends in industry, in academia, and in the open source community as a whole by throwing a friendly competiion to accompony JuliaCon 2023. The goal is for you to upload your best example of using Julia's Pluto Notebook in industry to JuliaHub. 
+Ever wondered what the Julia community is working on in industry? Us to! This is why we'd like to highlight our friends in industry, in academia, and in the open source community as a whole by throwing a friendly competition to accompany JuliaCon 2023. The goal is for you to upload your best example of using Julia's Pluto Notebook in industry to JuliaHub. 
 
 ### How to Submit
 
