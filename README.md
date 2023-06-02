@@ -44,8 +44,6 @@ It can have an instructional element, but we care more about the results (geared
 
 ### Selection Process
 
-<example image from Pluto itself>![pluto](https://github.com/Dattax/sample_jl/assets/1408846/23dbe7ac-ad83-4a5e-afef-6e645b06a1ab)
-
 Need an image from Pluto itself
 
 ## FAQ
