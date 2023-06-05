@@ -11,15 +11,15 @@ Ever wondered what the Julia community is working on in industry? Us to! This is
 
 ### How to Submit
 
-We will createa form where you can submit your static URL.
+A Google Form where you can submit your static URL.
+
+[Submit Now](https://forms.gle/QdwMiLseTDGpy8uq8)
 
 The form will ask you for the following: 
 
 * Name of the Notebook 
 * JuliaHub Login Name
 * URL Link to Notebook
-
-[Submit Now](https://forms.gle/QdwMiLseTDGpy8uq8)
 
 We will include all notebooks submitted this way in the competition. Please submit only 1 notebook per person for this competition.
 
