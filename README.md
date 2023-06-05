@@ -11,15 +11,17 @@ Ever wondered what the Julia community is working on in industry? Us to! This is
 
 ### How to Submit
 
-We will createa form where you can submit your static URL. The best is if you can name your project with the extension **_JuliaCon2023**
+We will createa form where you can submit your static URL.
 
 The form will ask you for the following: 
 
-* Name of the Notebook
+* Name of the Notebook 
 * JuliaHub Login Name
-* Link to Notebook
+* URL Link to Notebook
 
-We will include all notebooks submitted this way in the competition. Please submit only 1 notebook for this competition.
+[Submit Now](https://forms.gle/QdwMiLseTDGpy8uq8)
+
+We will include all notebooks submitted this way in the competition. Please submit only 1 notebook per person for this competition.
 
 **Judging Criteria:**
 
@@ -37,25 +39,15 @@ Your notebook will be judged based on the following 3 categories:
 
 * Interesting problems (show you how a problem was solved rather than a purely instructional notebook)
 
-<a href="https://juliahub.com/" class="button big">Submit Now</a>
-
 ## We want a project that highlights a problem that was solved
+
 It can have an instructional element, but we care more about the results (geared towards solving problems in a specific domain)
+
+An example of a notebook that solves a problem is here: https://juliaactuary.org/tutorials/mortalitytablesdataframe/
 
 ### Selection Process
 
-Need an image from Pluto itself
-
-## FAQ (Still to be filled out)
-
-+ How do I upload the notebook?
-
-+ What criteria makes a notebook project great?
-
-+ Who votes on this?
-  
-Options for voting: 1) JuliaHub committee 2) Open Source Committee 3) Open Voting
-Ex: Maybe Committee picks the four - five options and the whole community votes (top 3)
+Our selection committee will review each submitted notebook in the month of August and winners will be announced and contacted byt the end of the August month.
 
 # The Prizes
   
