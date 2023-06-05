@@ -33,17 +33,17 @@ Your notebook will be judged based on the following 3 categories:
 
 ### Submission Criteria
 
-* Generally, we know that there are two kinds of notebooks: 
+Generally, we know that there are two kinds of notebooks: 
 
-* Instructional notebooks (how to do something)
+* Pursely Instructional notebooks (how to do something in code) - not preferred
 
-* Interesting problems (show you how a problem was solved rather than a purely instructional notebook)
+* Interesting Problems (discusses a problem and how it was solved rather than a purely instructional notebook) - preferred
 
 ## We want a project that highlights a problem that was solved
 
 It can have an instructional element, but we care more about the results (geared towards solving problems in a specific domain)
 
-An example of a notebook that solves a problem is here: https://juliaactuary.org/tutorials/mortalitytablesdataframe/
+An example of a notebook that discusses a problem and provides an output is: https://gaelforget.github.io/ClimateModels.jl/dev/examples/CMIP6.html
 
 ### Selection Process
 
