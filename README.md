@@ -35,7 +35,7 @@ Your notebook will be judged based on the following 3 categories:
 
 Generally, we know that there are two kinds of notebooks: 
 
-* Pursely Instructional notebooks (how to do something in code) - not preferred
+* Purely Instructional notebooks (how to do something in code) - not preferred
 
 * Interesting Problems (discusses a problem and how it was solved rather than a purely instructional notebook) - preferred
 
