@@ -47,7 +47,7 @@ An example of a notebook that discusses a problem and provides an output is: htt
 
 ### Selection Process
 
-Our selection committee will review each submitted notebook in the month of August and winners will be announced and contacted byt the end of the August month.
+Our selection committee will review each submitted notebook in the month of August and winners will be announced and contacted by the end of the August month.
 
 # The Prizes
   
