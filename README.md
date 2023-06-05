@@ -11,7 +11,7 @@ Ever wondered what the Julia community is working on in industry? Us to! This is
 
 ### How to Submit
 
-A Google Form where you can submit your static URL.
+A Google Form where you can submit your static URL:
 
 [Submit Now](https://forms.gle/QdwMiLseTDGpy8uq8)
 
