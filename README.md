@@ -11,9 +11,15 @@ Ever wondered what the Julia community is working on in industry? Us to! This is
 
 ### How to Submit
 
-**Step 1:** First, you MUST upload the notebook on JuliaHub.com. Login and upload your notebook.
+**Step 1:** First, you MUST upload the notebook on JuliaHub.com. First, login and launch an instance of Pluto by going to the Applications area under the Compute menu item.
 
-**Step 2:** To be explicit about adding your notebook to the competition, please fill out this Google Form where you can submit your static URL:
+![pluto](https://github.com/Dattax/sample_jl/assets/1408846/8ef5854d-d206-4a08-a7b0-b547868166ee)
+
+Once Pluto is launched and connected, you can paste the URL of an existing notebook or choose to Create a new notebook.
+
+![upload](https://github.com/Dattax/sample_jl/assets/1408846/01074f24-96bf-486a-9d5e-928641f6a8b6)
+
+**Step 2:** To be explicit about adding your notebook to the competition, please fill out this Google Form where you can submit the static URL:
 
 [Submit Now](https://forms.gle/QdwMiLseTDGpy8uq8)
 
