@@ -51,9 +51,9 @@ Our selection committee will review each submitted notebook in the month of Augu
 
 # The Prizes
   
-* 1st Prize winner gets: $500 Cash + 500 Hours of Free Compute on JuliaHub
-* 2nd Prize winner gets: $300 Cash + 300 Hours of Free Compute on JuliaHub
-* 3rd Prize winner gets: $150 Cash + 150 Hours of Free Compute on JuliaHub
+* 1st Prize winner gets: $500 Cash + $500 Hours worth of free compute on JuliaHub
+* 2nd Prize winner gets: $300 Cash + $300 Hours worth of free compute on JuliaHub
+* 3rd Prize winner gets: $150 Cash + $150 Hours worth of free compute on JuliaHub
   
  ## Want to learn more about Pluto?
   
