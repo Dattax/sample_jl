@@ -11,7 +11,9 @@ Ever wondered what the Julia community is working on in industry? Us to! This is
 
 ### How to Submit
 
-A Google Form where you can submit your static URL:
+Step 1: First, you MUST upload the notebook on JuliaHub.com. Login and upload your notebook.
+
+Step 2: To be explicit about adding your notebook to the competition, please fill out this Google Form where you can submit your static URL:
 
 [Submit Now](https://forms.gle/QdwMiLseTDGpy8uq8)
 
