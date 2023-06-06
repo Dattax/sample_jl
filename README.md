@@ -11,23 +11,21 @@ Ever wondered what the Julia community is working on in industry? Us to! This is
 
 ### How to Submit
 
-**Step 1:** First, you MUST upload the notebook on JuliaHub.com. First, login and launch an instance of Pluto by going to the Applications area under the Compute menu item.
+First, you _must upload the notebook on JuliaHub.com_. First, login to JuliaHub.com and navigate to the Pluto tab:
 
-![pluto](https://github.com/Dattax/sample_jl/assets/1408846/8ef5854d-d206-4a08-a7b0-b547868166ee)
+![pluto-1](https://github.com/Dattax/sample_jl/assets/1408846/c46ba3e1-2df8-4d04-a320-76df727402e8)
 
-Once Pluto is launched and connected, you can paste the URL of an existing notebook or choose to Create a new notebook.
+Once there, look for the "Add" text next to the Default folder. You can also create a new folder if desired.
 
-![upload](https://github.com/Dattax/sample_jl/assets/1408846/01074f24-96bf-486a-9d5e-928641f6a8b6)
+![pluto-2](https://github.com/Dattax/sample_jl/assets/1408846/cb690c4d-66e4-41f4-8ac5-b46eb7d27c59)
 
-**Step 2:** To be explicit about adding your notebook to the competition, please fill out this Google Form where you can submit the static URL:
+To be explicit about adding your notebook to the competition, please make sure you upload it and tag it with **juliacon2023**.
 
-[Submit Now](https://forms.gle/QdwMiLseTDGpy8uq8)
+![pluto-3](https://github.com/Dattax/sample_jl/assets/1408846/75449249-bb16-45b2-9aae-8b722442f81e)
 
-The form will ask you for the following: 
+You should see the the tag **juliacon2023** next to the uploaded notebook.
 
-* Name of the Notebook 
-* JuliaHub Login Name
-* URL Link to Notebook
+![pluto-4](https://github.com/Dattax/sample_jl/assets/1408846/cc9b6779-f3c6-4e65-b5ae-b1869941902e)
 
 We will include all notebooks submitted this way in the competition. Please submit only 1 notebook per person for this competition.
 
