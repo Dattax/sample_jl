@@ -63,7 +63,7 @@ Our selection committee will review each submitted notebook in the month of Augu
 
 ## Issues
 
-If you had issues with the submission or have feedback use the form:
+If you had issues with the submission or have feedback, please use the form:
 
 [Issues Form](https://forms.gle/QdwMiLseTDGpy8uq8)
   
