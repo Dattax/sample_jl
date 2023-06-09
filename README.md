@@ -49,7 +49,7 @@ Generally, we know that there are two kinds of notebooks:
 
 It can have an instructional element, but we care more about the results (geared towards solving problems in a specific domain)
 
-An example of a notebook that discusses a problem and provides an output is: https://gaelforget.github.io/ClimateModels.jl/dev/examples/CMIP6.html
+An example of a notebook that discusses a problem and provides an output is: [https://gaelforget.github.io/ClimateModels.jl/dev/examples/CMIP6.html](https://juliahub.com/ui/Notebooks/fredrik-carlson2/controlsystems/analyse_robustness.jl)
 
 ### Selection Process
 
