@@ -17,7 +17,7 @@ First, you _must upload the notebook on JuliaHub.com_; login to JuliaHub.com and
 
 Once there, look for the "Add" button next to the Default folder. You can also create a new folder if desired.
 
-![pluto-2](https://github.com/Dattax/sample_jl/assets/1408846/cb690c4d-66e4-41f4-8ac5-b46eb7d27c59)
+<img width="1128" alt="img_4" src="https://github.com/Dattax/sample_jl/assets/1408846/6565e167-0de8-4951-9673-a2f25a6624ae">
 
 To be explicit about adding your notebook to the competition, please make sure you upload it and tag it with **juliacon2023**.
 
@@ -25,7 +25,7 @@ To be explicit about adding your notebook to the competition, please make sure y
 
 You should see the the tag **juliacon2023** next to the uploaded notebook.
 
-![pluto-4](https://github.com/Dattax/sample_jl/assets/1408846/cc9b6779-f3c6-4e65-b5ae-b1869941902e)
+<img width="1431" alt="img_5" src="https://github.com/Dattax/sample_jl/assets/1408846/61869bdf-68df-48ee-87ad-243e51615a5e">
 
 We will include all notebooks submitted this way in the competition. Please submit only 1 notebook per person for this competition.
 
