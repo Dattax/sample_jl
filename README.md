@@ -21,7 +21,7 @@ Once there, look for the "Add" button next to the Default folder. You can also c
 
 To be explicit about adding your notebook to the competition, please make sure you upload it and tag it with **juliacon2023**.
 
-![pluto-3](https://github.com/Dattax/sample_jl/assets/1408846/75449249-bb16-45b2-9aae-8b722442f81e)
+<img width="1431" alt="img_n" src="https://github.com/Dattax/sample_jl/assets/1408846/2b2f26f7-4c95-48b5-9694-ba5d9aedaca7">
 
 You should see the the tag **juliacon2023** next to the uploaded notebook.
 
